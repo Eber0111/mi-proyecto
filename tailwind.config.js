@@ -4,9 +4,9 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                'azul-claro': '#243cff',
-                'azul-oscuro': '#0d1b3e',
-            }
+                azulclaro: '#243cff',
+                azuloscuro: '#0d1b3e',
+            },
         },
     },
     plugins: [],
